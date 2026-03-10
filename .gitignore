@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Mac
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# environments
+venv/
+.env
+
+# models if large
+models/
+
+# vscode
+.vscode/
